@@ -11,6 +11,7 @@ Q5.	Create First Activity to accept information like Student First Name, Middle 
 Q6.	Design Following Screens Using Intents. On second activity take Button. On clicking it, it should Show Information of profile on Third activity. (Without Using Database) <br>
 <img width="312" alt="6" src="https://user-images.githubusercontent.com/120911023/235984251-b9449265-693d-4cd2-b7bf-4a65de1ccb17.png"> <br>
 Q7.	Design following-add a border to an Android Layout <br>
+<img width="143" alt="7" src="https://user-images.githubusercontent.com/120911023/235984983-e49b9a87-3b7a-47f9-8839-fff8111243b2.png"> <br>
 Q8.	Design an Android Portrait and Landscape Screen Layout Example <br>
 Q9.	Create the simple calculator shown below also perform appropriate operation <br>
 Q10.	Create new contact for designing following layout <br>
