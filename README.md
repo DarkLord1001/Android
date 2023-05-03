@@ -13,6 +13,7 @@ Q6.	Design Following Screens Using Intents. On second activity take Button. On c
 Q7.	Design following-add a border to an Android Layout <br>
 <img width="143" alt="7" src="https://user-images.githubusercontent.com/120911023/235984983-e49b9a87-3b7a-47f9-8839-fff8111243b2.png"> <br>
 Q8.	Design an Android Portrait and Landscape Screen Layout Example <br>
+<img width="366" alt="8" src="https://user-images.githubusercontent.com/120911023/235985912-4b146618-501e-49cc-a639-7b03e28421d3.png"> <br>
 Q9.	Create the simple calculator shown below also perform appropriate operation <br>
 Q10.	Create new contact for designing following layout <br>
 Q11.	Create following Vertical Scroll View Creation in Android <br>
