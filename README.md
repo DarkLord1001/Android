@@ -15,8 +15,12 @@ Q7.	Design following-add a border to an Android Layout <br>
 Q8.	Design an Android Portrait and Landscape Screen Layout Example <br>
 <img width="366" alt="8" src="https://user-images.githubusercontent.com/120911023/235985912-4b146618-501e-49cc-a639-7b03e28421d3.png"> <br>
 Q9.	Create the simple calculator shown below also perform appropriate operation <br>
+<img width="169" alt="9" src="https://user-images.githubusercontent.com/120911023/235989769-e99ffbdc-0a02-455b-beff-a261d545f135.png"> <br>
 Q10.	Create new contact for designing following layout <br>
+<img width="328" alt="10" src="https://user-images.githubusercontent.com/120911023/235989867-802c0cca-1ff7-49b8-89f4-2bad36c777ec.png"> <br>
 Q11.	Create following Vertical Scroll View Creation in Android <br>
+<img width="329" alt="11" src="https://user-images.githubusercontent.com/120911023/235989976-37439327-58a6-43aa-b19b-0091bf9b499d.png"> <br>
+
 Q12.	Create following layout which is changing android spinner text size with styles <br>
 Q13.	Create a custom "Contact" layout to hold multiple pieces of information, including: Photo, Name, Contact Number, E-mail id <br>
 Q14.	By using Spinner, Buttons. Write a program to draw following GUI. <br>
