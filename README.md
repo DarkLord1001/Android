@@ -20,7 +20,8 @@ Q10.	Create new contact for designing following layout <br>
 <img width="328" alt="10" src="https://user-images.githubusercontent.com/120911023/235989867-802c0cca-1ff7-49b8-89f4-2bad36c777ec.png"> <br>
 Q11.	Create following Vertical Scroll View Creation in Android <br>
 <img width="329" alt="11" src="https://user-images.githubusercontent.com/120911023/235989976-37439327-58a6-43aa-b19b-0091bf9b499d.png"> <br>
-
 Q12.	Create following layout which is changing android spinner text size with styles <br>
+<img width="270" alt="12" src="https://user-images.githubusercontent.com/120911023/235990257-43826401-dac7-4c44-a722-20325977bc4b.png"> <br>
 Q13.	Create a custom "Contact" layout to hold multiple pieces of information, including: Photo, Name, Contact Number, E-mail id <br>
 Q14.	By using Spinner, Buttons. Write a program to draw following GUI. <br>
+<img width="243" alt="14" src="https://user-images.githubusercontent.com/120911023/235990356-704fdc94-ee41-4143-8102-a1367e4e4dbc.png"> <br>
