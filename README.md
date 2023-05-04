@@ -31,4 +31,10 @@ Q16.	Create application to demonstrate file explorer (Use ListView). <br>
 Q17.	Create registration form given below. Also perform appropriate validation and display the message using dialog fragment.<br>
 <img width="212" alt="17" src="https://user-images.githubusercontent.com/120911023/236118212-4658cfcc-23d1-44f2-932f-d970fbd86deb.png"> <br>
 Q18.	Create application to demonstrate alarm. <br>
+Q19.	Construct an app that toggles a light bulb on and off when the user clicks on toggle button. <br>
+Q20.	Construct an app to display the image on date wise. <br>
+Q21.	Create a custom launcher icon <br>
+Q22.	Construct image switcher using setFactory(). <br>
+Q23.	Construct a bank app to display different menu like windrow, deposite etc. <br>
+Q24.	Construct App which shows Slides of multiple images after click on Slide menu <br>
 
