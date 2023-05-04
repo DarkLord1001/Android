@@ -25,3 +25,9 @@ Q12.	Create following layout which is changing android spinner text size with st
 Q13.	Create a custom "Contact" layout to hold multiple pieces of information, including: Photo, Name, Contact Number, E-mail id <br>
 Q14.	By using Spinner, Buttons. Write a program to draw following GUI. <br>
 <img width="243" alt="14" src="https://user-images.githubusercontent.com/120911023/235990356-704fdc94-ee41-4143-8102-a1367e4e4dbc.png"> <br>
+Q15.	Create application to demonstrate date and time picker <br>
+<img width="252" alt="15" src="https://user-images.githubusercontent.com/120911023/236117970-8bcdcf70-40f2-4599-9f79-94c3e2d92ce1.png"> <br>
+Q16.	Create application to demonstrate file explorer (Use ListView). <br> 
+Q17.	Create registration form given below. Also perform appropriate validation and display the message using dialog fragment.<br>
+<img width="212" alt="17" src="https://user-images.githubusercontent.com/120911023/236118212-4658cfcc-23d1-44f2-932f-d970fbd86deb.png"> <br>
+
