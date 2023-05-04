@@ -37,4 +37,6 @@ Q21.	Create a custom launcher icon <br>
 Q22.	Construct image switcher using setFactory(). <br>
 Q23.	Construct a bank app to display different menu like windrow, deposite etc. <br>
 Q24.	Construct App which shows Slides of multiple images after click on Slide menu <br>
+Q32.	Create application to send email. <br>
+Q33.	Create application to send message. After sending message display delivery report of message <br>
 
